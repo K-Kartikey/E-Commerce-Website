@@ -1,5 +1,4 @@
-# E Commerce Website
-# Crown Clothing :-
+# E Commerce Website (Crown Clothing)
 
 It is an E-Commerce model webpage built with React, using Firebase and Stripe API. 
 
